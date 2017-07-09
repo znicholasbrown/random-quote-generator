@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: center;
+}
+.quote {
+  font-size: 5vh;
+  text-align: center;
+}
+#upper {
+  opacity: 1;
+
+}
+#lower {
+  opacity: 0.2; 
+}
+#content {
+
+}
+.author {
+  font-size: 4vh;
+  padding-top: 0;
+
+}
+.share {
+
+
+}
+.quotes {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+p {
+  font-size: 1.25vw;
+  opacity: 0.5;
+}
+.fixer {
+  position:fixed;
+  width: 100%;
+  
+}
+.fixer2 {
+  margin-right: auto;
+  margin-left: auto;
+  width: 85%;
+  height: auto;
+  -webkit-transform: translate(0%, 0%); 
+  transform: translate(0%, 0%);   
+}
